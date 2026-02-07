@@ -47,7 +47,7 @@ const client = new MongoClient(uri, {
 // 🔹 Connect DB once
 async function connectDB() {
   try {
-    await client.connect();
+    
 
 
 
@@ -417,4 +417,5 @@ app.listen(port, () => {
 
 
 // assignment11
+
 // ylAreRXUjrdZSeqt
