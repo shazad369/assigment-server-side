@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "train-ticket-seller",
+  "private_key_id": "7b4f6a89bd368be77626dc2a53cfe2a81ed4cd25",
+   "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDOR/IvxftKg27M\nY8gi91p4pOmHQwzgUcrch8q8eVb9ukPrY7pQv2op8ieK2VTmhMTtBo61t61/3WUJ\nv9Zge888rqqUOZrxjzW+tm8j7lQaOIBQGjiY5XmWqVnSiLL+qXCRwb01AcRZvNAG\nSCRc5Jq/WT2H9JWBSDd4GIIu5D7v1DeOxxXhjbFsyw6YoQUZVmCZI+UO5+0F8SBh\nrjdt4PhwtZ8TeUfT3xd+H7B2+bJVueOUF5vKDEh6LdI/DTjWlWwD9im1qhuyH/X0\nJsQUjR8GrAHr775J9TzauU2mFJR5Qe3AeVROp19LQq4QUqQNrmWI7Kv7wh6d4BmG\nkWZ78fAzAgMBAAECggEABP7J49gS4TNa3SgFBpjPCHzQy07ohtDogqrVsAf+utwm\nOvlU6CLPT4DtQ1fxgSagqlFn5pGhJZZujHBB/sXOoeTsyjhxKUYmXiJLCfitJMVG\nO8g3TgzR4Oqf8tlTMnWbfWqB356zkU+L+JpwTA3YemvTPocGKuBUp0Ztun0rOFTr\ngzLC/Uz1v2Ztjcgrtp/UxGTE5LEqJ/GslXSmbs6HIESFwR7Y4HDm5aV4Ez1eHXEP\nZCzGoodaijHYLAcOZclMN70zOirl1OxJcYmp3pGP9YWr1SG14RIjcgA1wbYDOulj\nna6Pri0NX2OEPu0D8rAmc+BX/pZdozyfFG+jQPzv/QKBgQDmoXDj2TZgAPwBDpUT\nHAev7UUpCztK3fXEhB6XNDMMnOYsxRnY9p5D1G7WpnUqktYtM8qGEbVBAInrebge\nsPOyjVrpWvnFtPelFu4/1bAp4/2WhwoQYXciI+ptzKsoOqObWWtf42CAmRQrejTa\nuP86uonk5aT1NKGWU1uTRM1S5QKBgQDk+NIQtQt4DicBSf+S4i3YDaCNdkNXJZsU\nr7/q8cUCfeVIsVREAyBRN3VfldEDbb6qYqlXG6BdU2m3yVrtOLAxbU0wgiKZxxFy\nqi/4tafJRe1tlQIZlBKBIer/Q15mHyvSUCnOz/RF0usE2e5JIkwql5tC7X4OFHI5\nlLT4FKmNNwKBgDq/aPhBPl6aIZdLVaH2g+bGc9WOrN3XSGF0ni45978AwIkq8/iW\naZ4xoMJAyJu9p50AEliwbhFOx9MZwFLhFFKpOz0yFWnNPT/qZWoRTrx8/P25DFE7\n4pLpvy+U8QxgU4ig8H8OdmiLld21VX1ZnnohRjruXGSxsW+PcEZFQmAZAoGBANJN\nGptPvY3x6a9MaNletd6HfZwQL/99wbc5SJsgneMRAKNIg+3HtUoDFuHI92Ufygwy\ne/hOnna5IxMzdDkHZQSwsEHKdL8q0IKxf0f+iHHbsRuBzaDymCBUp8L1/GDtZlFP\nYWbbJy9ubn9RLoOrZauE/Yx2Ft4Vt2fdhm2IhMX3AoGACMWYrP2KJz1p4Plpof+f\nCzCuy4b6Hzmd5d/HSRSDpHbW3DJBXPz89XCjazPKRiuYdsCjQp4yJ9Dy8C2Fv6bE\n2QBs4qHZ+cLBjBgWyJ4sieiS4w35roBLP/3D1qsfztScV2yi/NvVmLBmySGgl3dT\nHX/Oj3Idwq1KZj8MQo1fFHg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@train-ticket-seller.iam.gserviceaccount.com",
+  "client_id": "100342184107081842273",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40train-ticket-seller.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
